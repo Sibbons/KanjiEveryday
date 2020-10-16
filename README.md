@@ -2,6 +2,8 @@
 
 This is a twitter bot that tweets out a random kanji everyday.
 
+[Twitter](https://twitter.com/kanjieveryday)
+
 # Inspiration
 
 I made this bot to help me get familiar with Kanji symbols within the Japanese language. In addition to being familiar with the meaning of the Kanji, I decided to add examples to learn the context to see when the Kanji would be appropriate. 
